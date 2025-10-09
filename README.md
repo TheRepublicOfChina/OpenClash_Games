@@ -8,7 +8,7 @@
 
 手游绝地求生亚服：PUBG MOBILE(Asia)
 
-绝地求生亚服:PUBG(Asia)
+绝地求生亚服：PUBG(Asia)
 
 
 
