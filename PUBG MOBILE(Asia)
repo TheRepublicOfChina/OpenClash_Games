@@ -1,4 +1,5 @@
 payload:
 - IP-CIDR,43.129.146.209/32,no-resolve
 - IP-CIDR,162.62.81.208/32,no-resolve
-- DOMAIN-SUFFIX,lobby.igamecj.com
+#IP不生效就试下用域名
+#- DOMAIN-SUFFIX,lobby.igamecj.com
