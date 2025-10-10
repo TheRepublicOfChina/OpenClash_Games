@@ -13,6 +13,7 @@
 用法：
 
 在openclash配置文件中
+
 rules段添加：
 ```yaml
   - RULE-SET,PUBG-Asia,🎮 游戏加速
