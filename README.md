@@ -10,15 +10,37 @@
 
 绝地求生亚服：PUBG(Asia)
 
+用法：
+在openclash配置文件中
+rules段添加：
+  - RULE-SET,PUBG-Asia,🎮 游戏加速
+  - RULE-SET,Battlefield_V-Asia,🎮 游戏加速
+  - RULE-SET,League_of_Legends-TW,🎮 游戏加速
+  - RULE-SET,PubgMobile-Asia,🎮 游戏加速
 
+rule-providers段添加：
+  PUBG-Asia:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/TheRepublicOfChina/OpenClash_Games/main/PUBG-Asia.yaml"
+    path: ./ruleset/PUBG-Asia.yaml
 
+  PubgMobile-Asia:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/TheRepublicOfChina/OpenClash_Games/main/PubgMobile-Asia.yaml"
+    path: ./ruleset/PubgMobile-Asia.yaml
 
+  Battlefield_V-Asia:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/TheRepublicOfChina/OpenClash_Games/main/Battlefield_V-Asia.yaml"
+    path: ./ruleset/Battlefield_V-Asia.yaml
 
-
-
-
-
-
-
+  League_of_Legends-TW:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/TheRepublicOfChina/OpenClash_Games/main/League_of_Legends-TW.yaml"
+    path: ./ruleset/League_of_Legends-TW.yaml
 
 
