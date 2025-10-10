@@ -13,11 +13,12 @@
 用法：
 在openclash配置文件中
 rules段添加：
+```yaml
   - RULE-SET,PUBG-Asia,🎮 游戏加速
   - RULE-SET,Battlefield_V-Asia,🎮 游戏加速
   - RULE-SET,League_of_Legends-TW,🎮 游戏加速
   - RULE-SET,PubgMobile-Asia,🎮 游戏加速
-
+```
 rule-providers段添加：
 ```yaml
   PUBG-Asia:
