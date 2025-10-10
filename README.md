@@ -11,6 +11,7 @@
 绝地求生亚服：PUBG(Asia)
 
 用法：
+
 在openclash配置文件中
 rules段添加：
 ```yaml
