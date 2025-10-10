@@ -19,6 +19,7 @@ rules段添加：
   - RULE-SET,PubgMobile-Asia,🎮 游戏加速
 
 rule-providers段添加：
+```yaml
   PUBG-Asia:
     type: http
     behavior: classical
@@ -42,5 +43,5 @@ rule-providers段添加：
     behavior: classical
     url: "https://raw.githubusercontent.com/TheRepublicOfChina/OpenClash_Games/main/League_of_Legends-TW.yaml"
     path: ./ruleset/League_of_Legends-TW.yaml
-
+```
 
