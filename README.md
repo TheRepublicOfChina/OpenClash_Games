@@ -4,7 +4,7 @@
 
 战地5亚服：Battlefield V(Asia)
 
-英雄联盟台服：League of Legends(TW)
+英雄联盟台服、金铲铲手游台服(Teamfight Tactics)：League of Legends(TW)
 
 手游绝地求生亚服：PUBG MOBILE(Asia)
 
