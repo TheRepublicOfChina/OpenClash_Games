@@ -1,4 +1,6 @@
 payload:
+  - IP-CIDR,43.129.146.48/32,no-resolve
+  - IP-CIDR,170.106.177.164/32,no-resolve
   - IP-CIDR,43.129.146.209/32,no-resolve
   - IP-CIDR,162.62.81.208/32,no-resolve
 ##  - DOMAIN,mgl.lobby.igamecj.com
