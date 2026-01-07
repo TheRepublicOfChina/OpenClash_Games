@@ -14,6 +14,16 @@
 
 在openclash配置文件中
 
+proxy-groups段添加：
+```yaml
+  - name: 🎮 游戏加速
+    type: select
+    include-all: true
+    proxies:
+      - 🚀 节点选择
+      - 🎯 全球直连
+      - ♻️ 自动选择
+```
 rules段添加：
 ```yaml
   - RULE-SET,PUBG-Asia,🎮 游戏加速
