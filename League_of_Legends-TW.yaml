@@ -19,7 +19,7 @@ payload:
   - IP-CIDR,104.16.119.50/32,no-resolve
   - IP-CIDR,104.18.156.37/32,no-resolve
   - IP-CIDR,114.250.63.34/32,no-resolve
-  - IP-CIDR,104.18.36.199/32,no-resolve
+#  - IP-CIDR,104.18.36.199/32,no-resolve
   - IP-CIDR,104.16.57.21/32,no-resolve
   - IP-CIDR,58.254.149.226/32,no-resolve
   - IP-CIDR,104.16.56.40/32,no-resolve
