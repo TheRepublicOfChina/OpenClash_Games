@@ -26,6 +26,8 @@ proxy-groups段添加：
 ```
 rules段添加：
 ```yaml
+  #开头添加riotcdn.net走直连能防止英雄联盟台服更新游戏时消耗游戏节点流量
+  - DOMAIN-SUFFIX,riotcdn.net,DIRECT
   - RULE-SET,PUBG-Asia,🎮 游戏加速
   - RULE-SET,Battlefield_V-Asia,🎮 游戏加速
   - RULE-SET,League_of_Legends-TW,🎮 游戏加速
