@@ -4,6 +4,7 @@ payload:
   - IP-CIDR,43.129.146.209/32,no-resolve
   - IP-CIDR,162.62.81.208/32,no-resolve
   - DOMAIN,k.gjacky.com
+  - DOMAIN,igame.msdkpass.com
   - DOMAIN,mgl.lobby.igamecj.com
   - DOMAIN,t-captcha.gjacky.com
   - DOMAIN,ig-us-notice.igamecj.com
