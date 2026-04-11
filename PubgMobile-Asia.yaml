@@ -5,3 +5,4 @@ payload:
   - IP-CIDR,162.62.81.208/32,no-resolve
   - DOMAIN,k.gjacky.com
   - DOMAIN,mgl.lobby.igamecj.com
+  - DOMAIN,ig-us-notice.igamecj.com
