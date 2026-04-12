@@ -6,6 +6,6 @@ payload:
 #  - DOMAIN,k.gjacky.com
 #  - DOMAIN,dl.gjacky.com
 #  - DOMAIN,igame.msdkpass.com
-#  - DOMAIN,mgl.lobby.igamecj.com
+  - DOMAIN,mgl.lobby.igamecj.com
 #  - DOMAIN,t-captcha.gjacky.com
 #  - DOMAIN,ig-us-notice.igamecj.com
